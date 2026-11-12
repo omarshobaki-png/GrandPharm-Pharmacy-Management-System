@@ -1,0 +1,25 @@
+# Compiled output and local dependencies
+bin/
+build/
+out/
+target/
+*.class
+*.jar
+*.log
+lib/*.jar
+
+# Local configuration and IDE workspace state
+.env
+.env.*
+!.env.example
+.metadata/
+.idea/
+.vscode/
+*.iml
+*.launch
+*.local.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini

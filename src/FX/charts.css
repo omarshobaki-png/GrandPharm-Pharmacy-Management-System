@@ -1,0 +1,21 @@
+/* bar chart bars */
+.default-color0.chart-bar {
+    -fx-bar-fill: #7B1F3A;
+}
+
+/* line chart line */
+.default-color0.chart-series-line {
+    -fx-stroke: #7B1F3A;
+}
+
+/* line chart dots */
+.default-color0.chart-line-symbol {
+    -fx-background-color: #7B1F3A, white;
+}
+
+/* pie chart slices */
+.default-color0.chart-pie { -fx-pie-color: #7B1F3A; }
+.default-color1.chart-pie { -fx-pie-color: #A8435D; }
+.default-color2.chart-pie { -fx-pie-color: #C97A8E; }
+.default-color3.chart-pie { -fx-pie-color: #1C1C2E; }
+.default-color4.chart-pie { -fx-pie-color: #3A3A5A; }
